@@ -6,10 +6,9 @@ public:
         int right = nums.size()-1;
         int left = 0;
         int maxx = INT_MIN;
-        int sum = 0;
+       
         while(left < right){
-            sum = nums[left] + nums[right];
-            maxx = max(maxx , sum);
+            maxx = max(maxx , nums[left] + nums[right]);
             left++;
             right--;
         }
