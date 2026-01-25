@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/viveksavaliya2004/dsa/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 ## Backtracking
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/viveksavaliya2004/dsa/tree/master/0055-jump-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/viveksavaliya2004/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/viveksavaliya2004/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/viveksavaliya2004/dsa/tree/master/0055-jump-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/viveksavaliya2004/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
