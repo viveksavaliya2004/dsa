@@ -14,13 +14,13 @@ public:
             count++;
 
         }
-        if (temp.find(b) != string::npos)
+        if (temp.find(b) != -1)
             return count;
 
         temp += a;
         count++;
 
-        if (temp.find(b) != string::npos)
+        if (temp.find(b) != -1)
             return count;
 
         return -1;
