@@ -5,25 +5,25 @@ public:
         if (digits.empty())
             return {};
 
-        vector<string> map = {
+        vector<string> mapp = {
             "", "", "abc", "def", "ghi",
             "jkl", "mno", "pqrs", "tuv", "wxyz"
         };
 
-        vector<string> result;
-        result.push_back("");   
+        vector<string> r;
+        r.push_back("");   
         for (char d : digits) {
             vector<string> temp;
 
-            for (string s : result) {
-                for (char ch : map[d - '0']) {
+            for (string s : r) {
+                for (char ch : mapp[d - '0']) {
                     temp.push_back(s + ch);
                 }
             }
 
-            result = temp;
+            r = temp;
         }
 
-        return result;
+        return r;
     }
 };
