@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/viveksavaliya2004/dsa/tree/master/0055-jump-game) |
+| [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 | [1200-minimum-absolute-difference](https://github.com/viveksavaliya2004/dsa/tree/master/1200-minimum-absolute-difference) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/viveksavaliya2004/dsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -77,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/viveksavaliya2004/dsa/tree/master/0214-shortest-palindrome) |
+| [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 | [1392-longest-happy-prefix](https://github.com/viveksavaliya2004/dsa/tree/master/1392-longest-happy-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 ## Prefix Sum
 |  |
@@ -91,9 +94,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
