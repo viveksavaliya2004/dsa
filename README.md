@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/viveksavaliya2004/dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/viveksavaliya2004/dsa/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
