@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0002-add-two-numbers) |
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/viveksavaliya2004/dsa/tree/master/1669-merge-in-between-linked-lists) |
@@ -161,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/viveksavaliya2004/dsa/tree/master/0178-rank-scores) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
