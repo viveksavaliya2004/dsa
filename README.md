@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/viveksavaliya2004/dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/viveksavaliya2004/dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/viveksavaliya2004/dsa/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/viveksavaliya2004/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/viveksavaliya2004/dsa/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/viveksavaliya2004/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/viveksavaliya2004/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/viveksavaliya2004/dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/viveksavaliya2004/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/viveksavaliya2004/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/viveksavaliya2004/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/viveksavaliya2004/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
 | ------- |
