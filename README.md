@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/viveksavaliya2004/dsa/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/viveksavaliya2004/dsa/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/viveksavaliya2004/dsa/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Enumeration
 |  |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0110-balanced-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/viveksavaliya2004/dsa/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
