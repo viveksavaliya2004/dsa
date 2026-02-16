@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viveksavaliya2004/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/viveksavaliya2004/dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/viveksavaliya2004/dsa/tree/master/1669-merge-in-between-linked-lists) |
