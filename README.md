@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0095-unique-binary-search-trees-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0401-binary-watch](https://github.com/viveksavaliya2004/dsa/tree/master/0401-binary-watch) |
 ## Tree
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/viveksavaliya2004/dsa/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/viveksavaliya2004/dsa/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/viveksavaliya2004/dsa/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0401-binary-watch](https://github.com/viveksavaliya2004/dsa/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
 ## Enumeration
 |  |
