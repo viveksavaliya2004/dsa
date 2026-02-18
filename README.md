@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/viveksavaliya2004/dsa/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0401-binary-watch](https://github.com/viveksavaliya2004/dsa/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/viveksavaliya2004/dsa/tree/master/0693-binary-number-with-alternating-bits) |
 ## Enumeration
 |  |
 | ------- |
