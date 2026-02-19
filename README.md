@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viveksavaliya2004/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0696-count-binary-substrings](https://github.com/viveksavaliya2004/dsa/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/viveksavaliya2004/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/viveksavaliya2004/dsa/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/viveksavaliya2004/dsa/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/viveksavaliya2004/dsa/tree/master/0696-count-binary-substrings) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/viveksavaliya2004/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1392-longest-happy-prefix](https://github.com/viveksavaliya2004/dsa/tree/master/1392-longest-happy-prefix) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
