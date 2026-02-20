@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0912-sort-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/viveksavaliya2004/dsa/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/viveksavaliya2004/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/viveksavaliya2004/dsa/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/viveksavaliya2004/dsa/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/viveksavaliya2004/dsa/tree/master/0696-count-binary-substrings) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/viveksavaliya2004/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/viveksavaliya2004/dsa/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/viveksavaliya2004/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0912-sort-an-array) |
 ## Quickselect
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
