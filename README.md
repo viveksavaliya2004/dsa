@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/viveksavaliya2004/dsa/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/viveksavaliya2004/dsa/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/viveksavaliya2004/dsa/tree/master/0868-binary-gap) |
 ## Enumeration
 |  |
 | ------- |
