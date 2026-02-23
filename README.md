@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/viveksavaliya2004/dsa/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/viveksavaliya2004/dsa/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/viveksavaliya2004/dsa/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/viveksavaliya2004/dsa/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/viveksavaliya2004/dsa/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -290,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
