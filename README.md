@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/viveksavaliya2004/dsa/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/viveksavaliya2004/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/viveksavaliya2004/dsa/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
@@ -317,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/viveksavaliya2004/dsa/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
