@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/viveksavaliya2004/dsa/tree/master/0901-online-stock-span) |
 ## Counting
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/viveksavaliya2004/dsa/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -323,8 +325,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/viveksavaliya2004/dsa/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/viveksavaliya2004/dsa/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
