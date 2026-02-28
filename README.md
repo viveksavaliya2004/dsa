@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/viveksavaliya2004/dsa/tree/master/0067-add-binary) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2073-time-needed-to-buy-tickets](https://github.com/viveksavaliya2004/dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [3379-transformed-array](https://github.com/viveksavaliya2004/dsa/tree/master/3379-transformed-array) |
 ## Bit Manipulation
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/viveksavaliya2004/dsa/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/viveksavaliya2004/dsa/tree/master/0868-binary-gap) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Enumeration
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/viveksavaliya2004/dsa/tree/master/0070-climbing-stairs) |
 | [0754-reach-a-number](https://github.com/viveksavaliya2004/dsa/tree/master/0754-reach-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/viveksavaliya2004/dsa/tree/master/0973-k-closest-points-to-origin) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Recursion
 |  |
 | ------- |
