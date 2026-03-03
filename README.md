@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/viveksavaliya2004/dsa/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/viveksavaliya2004/dsa/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/viveksavaliya2004/dsa/tree/master/0085-maximal-rectangle) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksavaliya2004/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/viveksavaliya2004/dsa/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viveksavaliya2004/dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viveksavaliya2004/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/viveksavaliya2004/dsa/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/viveksavaliya2004/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viveksavaliya2004/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viveksavaliya2004/dsa/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/viveksavaliya2004/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viveksavaliya2004/dsa/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
