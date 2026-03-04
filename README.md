@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/viveksavaliya2004/dsa/tree/master/1200-minimum-absolute-difference) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/viveksavaliya2004/dsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viveksavaliya2004/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/viveksavaliya2004/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/viveksavaliya2004/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/viveksavaliya2004/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/viveksavaliya2004/dsa/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Interactive
 |  |
 | ------- |
