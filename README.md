@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viveksavaliya2004/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/viveksavaliya2004/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/viveksavaliya2004/dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/viveksavaliya2004/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksavaliya2004/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/viveksavaliya2004/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/viveksavaliya2004/dsa/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/viveksavaliya2004/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/viveksavaliya2004/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
