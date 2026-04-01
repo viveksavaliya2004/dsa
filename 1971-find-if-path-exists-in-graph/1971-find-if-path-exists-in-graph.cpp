@@ -1,7 +1,6 @@
 class Solution {
 public:
 
-    // DFS function to visit all connected nodes
     void dfs(int node, vector<int>& vi, vector<vector<int>>& g) {
         vi[node] = 1;
 
