@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/viveksavaliya2004/dsa/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/viveksavaliya2004/dsa/tree/master/0696-count-binary-substrings) |
 | [0767-reorganize-string](https://github.com/viveksavaliya2004/dsa/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/viveksavaliya2004/dsa/tree/master/0796-rotate-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/viveksavaliya2004/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1392-longest-happy-prefix](https://github.com/viveksavaliya2004/dsa/tree/master/1392-longest-happy-prefix) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/viveksavaliya2004/dsa/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/viveksavaliya2004/dsa/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/viveksavaliya2004/dsa/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/viveksavaliya2004/dsa/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/viveksavaliya2004/dsa/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
