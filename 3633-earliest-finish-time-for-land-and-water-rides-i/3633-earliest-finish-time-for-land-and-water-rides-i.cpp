@@ -10,31 +10,41 @@ public:
 
         int minx = INT_MAX;
 
-        // Land -> Water
+        
         for (int i = 0; i < n; i++) {
 
-            int landFinish = landStartTime[i] + landDuration[i];
+            int time = landStartTime[i] + landDuration[i];
 
             for (int j = 0; j < m; j++) {
 
-                int startWater = max(landFinish, waterStartTime[j]);
-                int finish = startWater + waterDuration[j];
+                int currTime = time; 
 
-                minx = min(minx, finish);
+                if (waterStartTime[j] <= currTime) {
+                    currTime += waterDuration[j];
+                } else {
+                    currTime = waterStartTime[j] + waterDuration[j];
+                }
+
+                minx = min(minx, currTime);
             }
         }
 
-        // Water -> Land
-        for (int i = 0; i < m; i++) {
+        
+        for (int a = 0; a < m; a++) {
 
-            int waterFinish = waterStartTime[i] + waterDuration[i];
+            int time = waterStartTime[a] + waterDuration[a];
 
             for (int j = 0; j < n; j++) {
 
-                int startLand = max(waterFinish, landStartTime[j]);
-                int finish = startLand + landDuration[j];
+                int currTime = time; 
 
-                minx = min(minx, finish);
+                if (landStartTime[j] <= currTime) {
+                    currTime += landDuration[j];
+                } else {
+                    currTime = landStartTime[j] + landDuration[j];
+                }
+
+                minx = min(minx, currTime);
             }
         }
 
