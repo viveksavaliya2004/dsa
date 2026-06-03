@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/viveksavaliya2004/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0203-remove-linked-list-elements) |
+| [0445-add-two-numbers-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/viveksavaliya2004/dsa/tree/master/1669-merge-in-between-linked-lists) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/viveksavaliya2004/dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/viveksavaliya2004/dsa/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/viveksavaliya2004/dsa/tree/master/0202-happy-number) |
+| [0445-add-two-numbers-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0445-add-two-numbers-ii) |
 | [0754-reach-a-number](https://github.com/viveksavaliya2004/dsa/tree/master/0754-reach-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/viveksavaliya2004/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/viveksavaliya2004/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/viveksavaliya2004/dsa/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/viveksavaliya2004/dsa/tree/master/0155-min-stack) |
+| [0445-add-two-numbers-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/viveksavaliya2004/dsa/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
