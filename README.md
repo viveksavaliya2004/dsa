@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/viveksavaliya2004/dsa/tree/master/1669-merge-in-between-linked-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/viveksavaliya2004/dsa/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/viveksavaliya2004/dsa/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2073-time-needed-to-buy-tickets](https://github.com/viveksavaliya2004/dsa/tree/master/2073-time-needed-to-buy-tickets) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/viveksavaliya2004/dsa/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3379-transformed-array](https://github.com/viveksavaliya2004/dsa/tree/master/3379-transformed-array) |
 ## Bit Manipulation
 |  |
