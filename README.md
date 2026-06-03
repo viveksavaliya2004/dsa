@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/viveksavaliya2004/dsa/tree/master/0767-reorganize-string) |
 | [0997-find-the-town-judge](https://github.com/viveksavaliya2004/dsa/tree/master/0997-find-the-town-judge) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/viveksavaliya2004/dsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/viveksavaliya2004/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/viveksavaliya2004/dsa/tree/master/2540-minimum-common-value) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/viveksavaliya2004/dsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/viveksavaliya2004/dsa/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/viveksavaliya2004/dsa/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
