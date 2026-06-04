@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/viveksavaliya2004/dsa/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/viveksavaliya2004/dsa/tree/master/0973-k-closest-points-to-origin) |
+| [0992-subarrays-with-k-different-integers](https://github.com/viveksavaliya2004/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/viveksavaliya2004/dsa/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/viveksavaliya2004/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/viveksavaliya2004/dsa/tree/master/1200-minimum-absolute-difference) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/viveksavaliya2004/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/viveksavaliya2004/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/viveksavaliya2004/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/viveksavaliya2004/dsa/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/viveksavaliya2004/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/viveksavaliya2004/dsa/tree/master/0997-find-the-town-judge) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/viveksavaliya2004/dsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/viveksavaliya2004/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/viveksavaliya2004/dsa/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/viveksavaliya2004/dsa/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/viveksavaliya2004/dsa/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/viveksavaliya2004/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |
