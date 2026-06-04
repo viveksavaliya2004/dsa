@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/viveksavaliya2004/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/viveksavaliya2004/dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/viveksavaliya2004/dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viveksavaliya2004/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/viveksavaliya2004/dsa/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2540-minimum-common-value](https://github.com/viveksavaliya2004/dsa/tree/master/2540-minimum-common-value) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/viveksavaliya2004/dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/viveksavaliya2004/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/viveksavaliya2004/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viveksavaliya2004/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/viveksavaliya2004/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/viveksavaliya2004/dsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/viveksavaliya2004/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viveksavaliya2004/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/viveksavaliya2004/dsa/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/viveksavaliya2004/dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/viveksavaliya2004/dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
