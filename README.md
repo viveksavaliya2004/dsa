@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0110-balanced-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0110-balanced-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Array
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/viveksavaliya2004/dsa/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/viveksavaliya2004/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/viveksavaliya2004/dsa/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/viveksavaliya2004/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/viveksavaliya2004/dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/viveksavaliya2004/dsa/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/viveksavaliya2004/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/viveksavaliya2004/dsa/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/viveksavaliya2004/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/viveksavaliya2004/dsa/tree/master/1971-find-if-path-exists-in-graph) |
