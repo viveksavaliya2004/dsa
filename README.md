@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/viveksavaliya2004/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/viveksavaliya2004/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/viveksavaliya2004/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/viveksavaliya2004/dsa/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/viveksavaliya2004/dsa/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/viveksavaliya2004/dsa/tree/master/1971-find-if-path-exists-in-graph) |
