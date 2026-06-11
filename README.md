@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/viveksavaliya2004/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/viveksavaliya2004/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/viveksavaliya2004/dsa/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/viveksavaliya2004/dsa/tree/master/0846-hand-of-straights) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/viveksavaliya2004/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/viveksavaliya2004/dsa/tree/master/0997-find-the-town-judge) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/viveksavaliya2004/dsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/viveksavaliya2004/dsa/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/viveksavaliya2004/dsa/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/viveksavaliya2004/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/viveksavaliya2004/dsa/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/viveksavaliya2004/dsa/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/viveksavaliya2004/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
