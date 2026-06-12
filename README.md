@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/viveksavaliya2004/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/viveksavaliya2004/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/viveksavaliya2004/dsa/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/viveksavaliya2004/dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/viveksavaliya2004/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/viveksavaliya2004/dsa/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/viveksavaliya2004/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/viveksavaliya2004/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/viveksavaliya2004/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/viveksavaliya2004/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/viveksavaliya2004/dsa/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/viveksavaliya2004/dsa/tree/master/0802-find-eventual-safe-states) |
