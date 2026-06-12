@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/viveksavaliya2004/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0754-reach-a-number](https://github.com/viveksavaliya2004/dsa/tree/master/0754-reach-a-number) |
 | [0875-koko-eating-bananas](https://github.com/viveksavaliya2004/dsa/tree/master/0875-koko-eating-bananas) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/viveksavaliya2004/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viveksavaliya2004/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/viveksavaliya2004/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/viveksavaliya2004/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/viveksavaliya2004/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/viveksavaliya2004/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/viveksavaliya2004/dsa/tree/master/0997-find-the-town-judge) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/viveksavaliya2004/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/viveksavaliya2004/dsa/tree/master/1200-minimum-absolute-difference) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/viveksavaliya2004/dsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/viveksavaliya2004/dsa/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -520,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/viveksavaliya2004/dsa/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/viveksavaliya2004/dsa/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Trie
 |  |
 | ------- |
