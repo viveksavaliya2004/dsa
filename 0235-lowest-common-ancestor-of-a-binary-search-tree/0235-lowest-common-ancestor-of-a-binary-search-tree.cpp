@@ -10,27 +10,19 @@
 
 class Solution {
 public:
-TreeNode* finalnode =NULL;
-    int fun(TreeNode* root, TreeNode* p, TreeNode* q){
-        if(root==NULL){
-            return 0;
+    TreeNode* lca(TreeNode* root, TreeNode* p, TreeNode* q){
+        if(!root)return NULL;
+
+        if(root->val >p->val && root->val >q->val){
+            return lca(root->left ,p ,q);
         }
-        int left = fun(root->left , p ,q);
-        int right = fun(root->right,p,q);
-        int self = 0;
-        if(root==p || root==q){
-            self = 1;
+        else if(root->val <p->val && root->val <q->val){
+            return lca(root->right ,p,q);
+        }else{
+            return root;
         }
-        int total = self + left + right;
-        if(total == 2 && finalnode==NULL){
-            finalnode = root;
-        }
-        return total;
     }
-    
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==NULL)return NULL;
-        int ans = fun(root , p ,q);
-        return finalnode;
+        return lca(root , p ,q);
     }
 };
