@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0110-balanced-binary-tree) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0095-unique-binary-search-trees-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/viveksavaliya2004/dsa/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/viveksavaliya2004/dsa/tree/master/0173-binary-search-tree-iterator) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0110-balanced-binary-tree) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/viveksavaliya2004/dsa/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/viveksavaliya2004/dsa/tree/master/0207-course-schedule) |
