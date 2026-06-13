@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksavaliya2004/dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/viveksavaliya2004/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/viveksavaliya2004/dsa/tree/master/3637-trionic-array-i) |
+| [3838-weighted-word-mapping](https://github.com/viveksavaliya2004/dsa/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/viveksavaliya2004/dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/viveksavaliya2004/dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/viveksavaliya2004/dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/viveksavaliya2004/dsa/tree/master/3838-weighted-word-mapping) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/viveksavaliya2004/dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/viveksavaliya2004/dsa/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3379-transformed-array](https://github.com/viveksavaliya2004/dsa/tree/master/3379-transformed-array) |
+| [3838-weighted-word-mapping](https://github.com/viveksavaliya2004/dsa/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
