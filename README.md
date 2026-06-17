@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/viveksavaliya2004/dsa/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/viveksavaliya2004/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/viveksavaliya2004/dsa/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/viveksavaliya2004/dsa/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/viveksavaliya2004/dsa/tree/master/0355-design-twitter) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/viveksavaliya2004/dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/viveksavaliya2004/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/viveksavaliya2004/dsa/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/viveksavaliya2004/dsa/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/viveksavaliya2004/dsa/tree/master/0355-design-twitter) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/viveksavaliya2004/dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/viveksavaliya2004/dsa/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/viveksavaliya2004/dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0355-design-twitter](https://github.com/viveksavaliya2004/dsa/tree/master/0355-design-twitter) |
@@ -599,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/viveksavaliya2004/dsa/tree/master/0173-binary-search-tree-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/viveksavaliya2004/dsa/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
