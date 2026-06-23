@@ -34,10 +34,7 @@ public:
                 int nr = row + dr[k];
                 int nc = col + dc[k];
 
-                if(nr >= 0 && nr < n &&
-                   nc >= 0 && nc < m &&
-                   !vi[nr][nc]) {
-
+                if(nr >= 0 && nr < n &&nc >= 0 && nc < m &&!vi[nr][nc]) {
                     vi[nr][nc] = 1;
                     q.push({{nr, nc}, dist + 1});
                 }
