@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/viveksavaliya2004/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/viveksavaliya2004/dsa/tree/master/1392-longest-happy-prefix) |
+| [1544-make-the-string-great](https://github.com/viveksavaliya2004/dsa/tree/master/1544-make-the-string-great) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/viveksavaliya2004/dsa/tree/master/2833-furthest-point-from-origin) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/viveksavaliya2004/dsa/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/viveksavaliya2004/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1544-make-the-string-great](https://github.com/viveksavaliya2004/dsa/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/viveksavaliya2004/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
