@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/viveksavaliya2004/dsa/tree/master/1544-make-the-string-great) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/viveksavaliya2004/dsa/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/viveksavaliya2004/dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/viveksavaliya2004/dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2073-time-needed-to-buy-tickets](https://github.com/viveksavaliya2004/dsa/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/viveksavaliya2004/dsa/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2390-removing-stars-from-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/viveksavaliya2004/dsa/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/viveksavaliya2004/dsa/tree/master/3612-process-string-with-special-operations-i) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-make-the-string-great](https://github.com/viveksavaliya2004/dsa/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/viveksavaliya2004/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
