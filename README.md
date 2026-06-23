@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/viveksavaliya2004/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/viveksavaliya2004/dsa/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/viveksavaliya2004/dsa/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/viveksavaliya2004/dsa/tree/master/0621-task-scheduler) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/viveksavaliya2004/dsa/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/viveksavaliya2004/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/viveksavaliya2004/dsa/tree/master/0575-distribute-candies) |
