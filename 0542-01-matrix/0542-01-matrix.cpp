@@ -4,43 +4,53 @@ public:
         int n = mat.size();
         int m = mat[0].size();
 
-        vector<vector<bool>> vi(n, vector<bool>(m, 0));
-        vector<vector<int>> di(n, vector<int>(m, 0));
+        vector<vector<int>> dist(n, vector<int>(m, 0));
+        vector<vector<bool>> vis(n, vector<bool>(m, false));
 
         queue<pair<pair<int,int>, int>> q;
 
-        // Push all 0s into queue
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
                 if(mat[i][j] == 0) {
                     q.push({{i, j}, 0});
-                    vi[i][j] = 1;
+                    vis[i][j] = true;
                 }
             }
         }
-
-        int dr[] = {-1, 0, 1, 0};
-        int dc[] = {0, 1, 0, -1};
 
         while(!q.empty()) {
             int row = q.front().first.first;
             int col = q.front().first.second;
-            int dist = q.front().second;
+            int d = q.front().second;
             q.pop();
 
-            di[row][col] = dist;
+            dist[row][col] = d;
 
-            for(int k = 0; k < 4; k++) {
-                int nr = row + dr[k];
-                int nc = col + dc[k];
+            // UP
+            if(row - 1 >= 0 && !vis[row - 1][col]) {
+                vis[row - 1][col] = true;
+                q.push({{row - 1, col}, d + 1});
+            }
 
-                if(nr >= 0 && nr < n &&nc >= 0 && nc < m &&!vi[nr][nc]) {
-                    vi[nr][nc] = 1;
-                    q.push({{nr, nc}, dist + 1});
-                }
+            // RIGHT
+            if(col + 1 < m && !vis[row][col + 1]) {
+                vis[row][col + 1] = true;
+                q.push({{row, col + 1}, d + 1});
+            }
+
+            // DOWN
+            if(row + 1 < n && !vis[row + 1][col]) {
+                vis[row + 1][col] = true;
+                q.push({{row + 1, col}, d + 1});
+            }
+
+            // LEFT
+            if(col - 1 >= 0 && !vis[row][col - 1]) {
+                vis[row][col - 1] = true;
+                q.push({{row, col - 1}, d + 1});
             }
         }
 
-        return di;
+        return dist;
     }
 };
