@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0095-unique-binary-search-trees-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0095-unique-binary-search-trees-ii) |
+| [0126-word-ladder-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/viveksavaliya2004/dsa/tree/master/0401-binary-watch) |
 ## Tree
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/viveksavaliya2004/dsa/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/viveksavaliya2004/dsa/tree/master/0067-add-binary) |
+| [0126-word-ladder-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/viveksavaliya2004/dsa/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/viveksavaliya2004/dsa/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/viveksavaliya2004/dsa/tree/master/0383-ransom-note) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/viveksavaliya2004/dsa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/viveksavaliya2004/dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/viveksavaliya2004/dsa/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/viveksavaliya2004/dsa/tree/master/0138-copy-list-with-random-pointer) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0126-word-ladder-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/viveksavaliya2004/dsa/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/viveksavaliya2004/dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/viveksavaliya2004/dsa/tree/master/0133-clone-graph) |
