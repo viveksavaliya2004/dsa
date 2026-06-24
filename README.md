@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/viveksavaliya2004/dsa/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/viveksavaliya2004/dsa/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/viveksavaliya2004/dsa/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/viveksavaliya2004/dsa/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/viveksavaliya2004/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/viveksavaliya2004/dsa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/viveksavaliya2004/dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/viveksavaliya2004/dsa/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/viveksavaliya2004/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/viveksavaliya2004/dsa/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/viveksavaliya2004/dsa/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/viveksavaliya2004/dsa/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/viveksavaliya2004/dsa/tree/master/0200-number-of-islands) |
