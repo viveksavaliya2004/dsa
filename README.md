@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/viveksavaliya2004/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/viveksavaliya2004/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksavaliya2004/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/viveksavaliya2004/dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/viveksavaliya2004/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/viveksavaliya2004/dsa/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/viveksavaliya2004/dsa/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/viveksavaliya2004/dsa/tree/master/0860-lemonade-change) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksavaliya2004/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/viveksavaliya2004/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/viveksavaliya2004/dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/viveksavaliya2004/dsa/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/viveksavaliya2004/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/viveksavaliya2004/dsa/tree/master/1200-minimum-absolute-difference) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/viveksavaliya2004/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/viveksavaliya2004/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/viveksavaliya2004/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/viveksavaliya2004/dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
