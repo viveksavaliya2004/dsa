@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viveksavaliya2004/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viveksavaliya2004/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/viveksavaliya2004/dsa/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/viveksavaliya2004/dsa/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/viveksavaliya2004/dsa/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/viveksavaliya2004/dsa/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/viveksavaliya2004/dsa/tree/master/1392-longest-happy-prefix) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/viveksavaliya2004/dsa/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/viveksavaliya2004/dsa/tree/master/0706-design-hashmap) |
 | [1392-longest-happy-prefix](https://github.com/viveksavaliya2004/dsa/tree/master/1392-longest-happy-prefix) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/viveksavaliya2004/dsa/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/viveksavaliya2004/dsa/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/viveksavaliya2004/dsa/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
