@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/viveksavaliya2004/dsa/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/viveksavaliya2004/dsa/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/viveksavaliya2004/dsa/tree/master/0182-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/viveksavaliya2004/dsa/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/viveksavaliya2004/dsa/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/viveksavaliya2004/dsa/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/viveksavaliya2004/dsa/tree/master/1148-article-views-i) |
