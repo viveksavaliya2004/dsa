@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/viveksavaliya2004/dsa/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/viveksavaliya2004/dsa/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/viveksavaliya2004/dsa/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/viveksavaliya2004/dsa/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0240-search-a-2d-matrix-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viveksavaliya2004/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/viveksavaliya2004/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viveksavaliya2004/dsa/tree/master/0202-happy-number) |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/viveksavaliya2004/dsa/tree/master/0696-count-binary-substrings) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/viveksavaliya2004/dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/viveksavaliya2004/dsa/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/viveksavaliya2004/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viveksavaliya2004/dsa/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/viveksavaliya2004/dsa/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0445-add-two-numbers-ii) |
