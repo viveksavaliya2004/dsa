@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/viveksavaliya2004/dsa/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/viveksavaliya2004/dsa/tree/master/0868-binary-gap) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/viveksavaliya2004/dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
 | ------- |
