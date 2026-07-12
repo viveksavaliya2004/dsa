@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viveksavaliya2004/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/viveksavaliya2004/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viveksavaliya2004/dsa/tree/master/0202-happy-number) |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/viveksavaliya2004/dsa/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/viveksavaliya2004/dsa/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/viveksavaliya2004/dsa/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/viveksavaliya2004/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0387-first-unique-character-in-a-string) |
