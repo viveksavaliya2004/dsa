@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/viveksavaliya2004/dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/viveksavaliya2004/dsa/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/viveksavaliya2004/dsa/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/viveksavaliya2004/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/viveksavaliya2004/dsa/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/viveksavaliya2004/dsa/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/viveksavaliya2004/dsa/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/viveksavaliya2004/dsa/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/viveksavaliya2004/dsa/tree/master/0383-ransom-note) |
