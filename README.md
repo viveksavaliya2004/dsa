@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/viveksavaliya2004/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/viveksavaliya2004/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/viveksavaliya2004/dsa/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/viveksavaliya2004/dsa/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/viveksavaliya2004/dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/viveksavaliya2004/dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/viveksavaliya2004/dsa/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/viveksavaliya2004/dsa/tree/master/0435-non-overlapping-intervals) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/viveksavaliya2004/dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/viveksavaliya2004/dsa/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/viveksavaliya2004/dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/viveksavaliya2004/dsa/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/viveksavaliya2004/dsa/tree/master/0705-design-hashset) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/viveksavaliya2004/dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/viveksavaliya2004/dsa/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/viveksavaliya2004/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/viveksavaliya2004/dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/viveksavaliya2004/dsa/tree/master/0901-online-stock-span) |
 ## Matrix
