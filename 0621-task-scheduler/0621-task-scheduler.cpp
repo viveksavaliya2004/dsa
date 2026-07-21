@@ -4,43 +4,46 @@ using namespace std;
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
+
         unordered_map<char, int> mp;
 
-        for (char t : tasks) {
-            mp[t]++;
-        }
+        for (char ch : tasks)
+            mp[ch]++;
 
         priority_queue<int> pq;
-        for (auto &it : mp) {
-            pq.push(it.second);
-        }
 
-      
-        queue<pair<int, int>> q;
+        for (auto &[ch, freq] : mp)
+            pq.push(freq);
 
         int time = 0;
 
-      
-        while (!pq.empty() || !q.empty()) {
-            time++;
+        while (!pq.empty()) {
 
-           
-            if (!pq.empty()) {
+            vector<int> temp;
+            int cycle = n + 1;
+            int work = 0;
+
+            while (cycle > 0 && !pq.empty()) {
+
                 int freq = pq.top();
                 pq.pop();
 
                 freq--;
+                work++;
 
-                if (freq > 0) {
-                    q.push({freq, time + n});
-                }
+                if (freq > 0)
+                    temp.push_back(freq);
+
+                cycle--;
             }
 
-           
-            if (!q.empty() && q.front().second == time) {
-                pq.push(q.front().first);
-                q.pop();
-            }
+            for (int x : temp)
+                pq.push(x);
+
+            if (pq.empty())
+                time += work;
+            else
+                time += n + 1;
         }
 
         return time;
