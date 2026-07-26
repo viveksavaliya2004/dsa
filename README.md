@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/viveksavaliya2004/dsa/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/viveksavaliya2004/dsa/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/viveksavaliya2004/dsa/tree/master/0692-top-k-frequent-words) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/viveksavaliya2004/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/viveksavaliya2004/dsa/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/viveksavaliya2004/dsa/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/viveksavaliya2004/dsa/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/viveksavaliya2004/dsa/tree/master/0692-top-k-frequent-words) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/viveksavaliya2004/dsa/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/viveksavaliya2004/dsa/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/viveksavaliya2004/dsa/tree/master/0754-reach-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/viveksavaliya2004/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
