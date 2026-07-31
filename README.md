@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/viveksavaliya2004/dsa/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0126-word-ladder-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksavaliya2004/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/viveksavaliya2004/dsa/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/viveksavaliya2004/dsa/tree/master/0049-group-anagrams) |
