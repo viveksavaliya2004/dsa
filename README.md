@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/viveksavaliya2004/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/viveksavaliya2004/dsa/tree/master/0078-subsets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksavaliya2004/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/viveksavaliya2004/dsa/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/viveksavaliya2004/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/viveksavaliya2004/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/viveksavaliya2004/dsa/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/viveksavaliya2004/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/viveksavaliya2004/dsa/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/viveksavaliya2004/dsa/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/viveksavaliya2004/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0126-word-ladder-ii) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/viveksavaliya2004/dsa/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/viveksavaliya2004/dsa/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/viveksavaliya2004/dsa/tree/master/0130-surrounded-regions) |
