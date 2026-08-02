@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/viveksavaliya2004/dsa/tree/master/0754-reach-a-number) |
 | [0973-k-closest-points-to-origin](https://github.com/viveksavaliya2004/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1922-count-good-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/viveksavaliya2004/dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/viveksavaliya2004/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/viveksavaliya2004/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0203-remove-linked-list-elements) |
+| [1922-count-good-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
