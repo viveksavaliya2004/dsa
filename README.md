@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/viveksavaliya2004/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/viveksavaliya2004/dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/viveksavaliya2004/dsa/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/viveksavaliya2004/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/viveksavaliya2004/dsa/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/viveksavaliya2004/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/viveksavaliya2004/dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/viveksavaliya2004/dsa/tree/master/0994-rotting-oranges) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/viveksavaliya2004/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/viveksavaliya2004/dsa/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
