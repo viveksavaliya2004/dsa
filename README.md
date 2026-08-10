@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/viveksavaliya2004/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/viveksavaliya2004/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/viveksavaliya2004/dsa/tree/master/0055-jump-game) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/viveksavaliya2004/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/viveksavaliya2004/dsa/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/viveksavaliya2004/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/viveksavaliya2004/dsa/tree/master/0042-trapping-rain-water) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/viveksavaliya2004/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/viveksavaliya2004/dsa/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/viveksavaliya2004/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/viveksavaliya2004/dsa/tree/master/0013-roman-to-integer) |
@@ -892,4 +895,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/viveksavaliya2004/dsa/tree/master/0416-partition-equal-subset-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/viveksavaliya2004/dsa/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
