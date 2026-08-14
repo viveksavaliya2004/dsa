@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/viveksavaliya2004/dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viveksavaliya2004/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/viveksavaliya2004/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/viveksavaliya2004/dsa/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/viveksavaliya2004/dsa/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/viveksavaliya2004/dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/viveksavaliya2004/dsa/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/viveksavaliya2004/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/viveksavaliya2004/dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/viveksavaliya2004/dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/viveksavaliya2004/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/viveksavaliya2004/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/viveksavaliya2004/dsa/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/viveksavaliya2004/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/viveksavaliya2004/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/viveksavaliya2004/dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/viveksavaliya2004/dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/viveksavaliya2004/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
