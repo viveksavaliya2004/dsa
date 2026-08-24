@@ -17,7 +17,7 @@ int hight(TreeNode*r1 , bool &valid){
         }
         
         int lh =hight(r1->left , valid);
-        int rh =hight(r1->right,valid);
+        int rh =hight(r1->right, valid);
         if(abs(lh-rh) > 1){
             valid =0;
         }
