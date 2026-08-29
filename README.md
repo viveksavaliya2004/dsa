@@ -908,4 +908,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/viveksavaliya2004/dsa/tree/master/0005-longest-palindromic-substring) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
