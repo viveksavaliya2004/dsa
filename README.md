@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/viveksavaliya2004/dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/viveksavaliya2004/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3379-transformed-array](https://github.com/viveksavaliya2004/dsa/tree/master/3379-transformed-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/viveksavaliya2004/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksavaliya2004/dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/viveksavaliya2004/dsa/tree/master/3634-minimum-removals-to-balance-array) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/viveksavaliya2004/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/viveksavaliya2004/dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/viveksavaliya2004/dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/viveksavaliya2004/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/viveksavaliya2004/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/viveksavaliya2004/dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/viveksavaliya2004/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/viveksavaliya2004/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Database
 |  |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/viveksavaliya2004/dsa/tree/master/0203-remove-linked-list-elements) |
 | [1922-count-good-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
