@@ -1,6 +1,15 @@
 class Solution {
 public:
-    bool isRectangleOverlap(auto& r1, auto& r2) {
-        return r1[0] < r2[2] && r2[0] < r1[2] && r1[1] < r2[3] && r2[1] < r1[3];
+    bool isRectangleOverlap(vector<int>& rec1, vector<int>& rec2) {
+        int left = max(rec1[0], rec2[0]);
+        int right = min(rec1[2], rec2[2]);
+
+        int bottom = max(rec1[1], rec2[1]);
+        int top = min(rec1[3], rec2[3]);
+
+        int width = right - left;
+        int height = top - bottom;
+
+        return width > 0 && height > 0;
     }
 };
