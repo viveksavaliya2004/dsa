@@ -6,7 +6,7 @@ public:
         for(int i=tem.size()-1 ;i>=0 ;i--){
             if(st.empty()){
                 ans.push_back(0);
-                cout<<i;
+                
             }
             else{
                 while(!st.empty() && tem[st.top()] <= tem[i]){
