@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/viveksavaliya2004/dsa/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/viveksavaliya2004/dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/viveksavaliya2004/dsa/tree/master/1200-minimum-absolute-difference) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/viveksavaliya2004/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/viveksavaliya2004/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/viveksavaliya2004/dsa/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/viveksavaliya2004/dsa/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/viveksavaliya2004/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/viveksavaliya2004/dsa/tree/master/1189-maximum-number-of-balloons) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/viveksavaliya2004/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/viveksavaliya2004/dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/viveksavaliya2004/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/viveksavaliya2004/dsa/tree/master/1392-longest-happy-prefix) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/viveksavaliya2004/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/viveksavaliya2004/dsa/tree/master/1020-number-of-enclaves) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/viveksavaliya2004/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/viveksavaliya2004/dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/viveksavaliya2004/dsa/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/viveksavaliya2004/dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/viveksavaliya2004/dsa/tree/master/0692-top-k-frequent-words) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/viveksavaliya2004/dsa/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
